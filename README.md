@@ -1,4 +1,3 @@
-
 # Employee Database Analysis Project
 
 ## Overview
@@ -33,7 +32,7 @@ sql-challenge/
 
 After careful inspection of the CSV files, I designed an Entity Relationship Diagram to map out the database structure and relationships between tables. This planning phase was crucial for ensuring proper normalization and data integrity.
 
-![1741316369026](image/README/1741316369026.png)
+![1741316369026](image/README/ERD_README_Image.png)
 
 ### 2. Data Engineering
 
