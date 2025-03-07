@@ -33,7 +33,7 @@ sql-challenge/
 
 After careful inspection of the CSV files, I designed an Entity Relationship Diagram to map out the database structure and relationships between tables. This planning phase was crucial for ensuring proper normalization and data integrity.
 
-![ERD Diagram](https://claude.ai/chat/ERD/employee_db_diagram.png)
+![1741316369026](image/README/1741316369026.png)
 
 ### 2. Data Engineering
 
